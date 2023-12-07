@@ -2,7 +2,11 @@
   "checkpoints": {
     "sd_xl_base_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/sd_xl_base_1.0.safetensors",
     "sd_xl_refiner_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/blob/main/sd_xl_refiner_1.0.safetensors",
-    "v1-5-pruned.ckpt2": "https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned.ckpt"
+    "v1-5-pruned.ckpt2": "https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned.ckpt",
+    "RetroDiffusion16xModel.ckpt": "https://astropulse.gumroad.com/l/RetroDiffusionModel",
+    "RetroDiffusion32xModel.ckpt": "https://astropulse.gumroad.com/l/RetroDiffusionModel",
+    "RetroDiffusion64xModel.ckpt": "https://astropulse.gumroad.com/l/RetroDiffusionModel",
+    "RetroDiffusion128xModel.ckpt": "https://astropulse.gumroad.com/l/RetroDiffusionModel",
   },
   "loras": {},
   "upscalers": {},
