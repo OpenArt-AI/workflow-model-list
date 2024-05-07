@@ -4,7 +4,9 @@
     "sd_xl_refiner_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/blob/main/sd_xl_refiner_1.0.safetensors",
     "v1-5-pruned.ckpt2": "https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned.ckpt"
   },
-  "loras": {},
+  "loras": {
+    "StudioGhibli.Redmond-StdGBRRedmAF-StudioGhibli.safetensors": "https://huggingface.co/artificialguybr/StudioGhibli.Redmond-V2/blob/main/StudioGhibli.Redmond-StdGBRRedmAF-StudioGhibli.safetensors"
+  },
   "upscalers": {},
   "other_models": {}
 }
